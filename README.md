@@ -1,7 +1,3 @@
-![Logo](https://conteudo-kenzie-fullstack.vercel.app/style_guide/img/logo/default.png "Logo")
-
-[Expandir página](https://conteudo-kenzie-fullstack.vercel.app/modulo_1/_entrega_sprint_1/index.html)
-
 🏁 Entrega: Blog Kenzie HTML
 ============================
 
