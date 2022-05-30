@@ -57,8 +57,6 @@ Caso deseje uma visualização mais interessante do layout acima, acesse por mei
 
 *   _Por exemplo:_ ![](./img/validation.svg)
 
-Para iniciar faça o clone do repositório clicando no seguinte link: [Fazer clone](https://classroom.github.com/a/jll1dKAO)
-
 #### 😎 Vamos nessa!
 
 Qualquer dúvida, solicite seu facilitador
